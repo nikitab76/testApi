@@ -4,8 +4,8 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://example.com/your-repo.git
-cd your-repo
+git clone https://github.com/nikitab76/testApi.git
+
 ```
 
 2. Установить зависимости:
